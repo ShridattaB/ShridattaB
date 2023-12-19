@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shridatt-bhimanavaru-3a616a222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shridatt-bhimanavaru-3a616a222" height="30" width="40" /></a>
 <a href="https://instagram.com/esu_471_shridatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="esu_471_shridatt" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/shridattabhiman1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shridattabhiman1" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/profile/shridattabhiman1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shridattabhiman1" height="30" width="40" /></a>
 <a href="https://discord.gg/Shridatt_471" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shridatt_471" height="30" width="40" /></a>
 </p>
 
